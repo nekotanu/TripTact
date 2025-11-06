@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # triptact
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# TripTact
+app that lets user create Travel Itinerary for there trip
+>>>>>>> 8db19c434953d45273d5bc309cad30e71dd41809
